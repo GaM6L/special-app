@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 преправа
+=======
+заморозка
+>>>>>>> Stashed changes
 =======
 заморозка
 >>>>>>> Stashed changes
